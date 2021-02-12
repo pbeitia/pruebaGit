@@ -1,0 +1,4 @@
+int suma1 = 0;
+int suma 2 = 1;
+suma1 = suma1 + suma2;
+System.out.println(suma1);
